@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faisal Ahmed - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Faisal Ahmed</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Faisal AHMED</p>
+</p>Senior Partner with Infogain, DicisionMind, Virtusa, Cigniti, Genpact, and Vitaver</p>
+</p>Talks about #recruiting, #jobapportunity, #businessanalyst, #qualityassurance, and #businessintelligence</p>
+</p>Seven Hills Group Technologies Inc.  University Canada West</p>
+</p>Greater Toronto Area, Canada.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="Project">
+            <h3>Project 1: Operator</h3>
+            <p>An operator is a sign or symbol that specifies the type of calculation to perform within an expression. There are mathematical, comparison, logical, and reference operators.</p>
+            <a href="#">https://github.com/fanislala/Operators</a>
+        </div>
+        <div class="project">
+            <h3>Project 2: Polymorphism</h3>
+            <p>Polymorphism is one of the main features of object-oriented programming. Polymorphism in C++ allows us to reuse code by creating one function that's usable for multiple uses. We can also make operators polymorphic and use them to add not only numbers but also combine strings.</p>
+            <a href="#">https://github.com/fanislala/Polymorphism</a>
+        </div>
+      </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="#">fanislala@gmail.com</a></p>
+        <p>LinkedIn: <a href="#">https://www.linkedin.com/in/beeinggood/</a></p>
+        <p>GitHub: <a href="#">https://github.com/fanislala</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Faisal Ahmed. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
